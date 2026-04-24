@@ -40,15 +40,3 @@
 </div>
   </a>
 </div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/MorganVxz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MorganVxz&theme=radical&background=1a1a1a&ring=ff0033&fire=ff0033&currStreakNum=e0e0e0" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/MorganVxz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorganVxz&layout=compact&theme=radical&bg_color=1a1a1a&text_color=e0e0e0&title_color=ff0033" alt="Top Languages" />
