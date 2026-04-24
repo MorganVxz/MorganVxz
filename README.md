@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://sf.morgana.web.id/file/1777048530352-befa59.gif" alt="Greeting GIF" width="600"/>
+  <img src="http://sf.morgana.web.id/file/1777050443967-5a5ce2.jpg" alt="Greeting" width="600"/>
 </div>
 
 <div align="center">
